@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello!!!";
 ```
+
+- [x] Eat Breakfast
+- [ ] Eat Lunch
+- [ ] Eat Dinner
